@@ -21,4 +21,8 @@ public class EmployeeController {
            employeeService.addEmployee(employee);
         return "success";
     }
+
+    public static void main(String[] args) {
+        System.out.println("版本一");
+    }
 }
