@@ -26,5 +26,6 @@ public class EmployeeController {
         System.out.println("版本一");
         System.out.println("版本三");
         System.out.println("热修复版本");
+        System.out.println("master版本2");
     }
 }
